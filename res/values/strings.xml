@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpyGame</string>
+    <string name="Mission">Mission: Disarm the Bomb</string>
+    <string name="MissionDetails">\nYour mission, should you choose to accept it, \nis to reach Cory Hall and disarm the bomb \nwithin 15 minutes</string>
+    <string name="manage_mission">Manage Mission</string>
+    <string name="mission_list">Missions</string>
+    <string name="mission1">Disarm A Bomb</string>
+    <string name="mission2">Practice Camouflage</string>
+    <string name="mission3">Meet A Contact</string>
+    <string name="meet_contact_prompt">Follow the map below to find Andy. Ask Andy to enter the secret code below to complete the mission.</string>
+    <string name="highscores_default">Longest distance walked: 2 miles \nFastest completion time: 20 seconds</string>
+
+</resources>
